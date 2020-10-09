@@ -1,3 +1,12 @@
+
+var inputText = document.getElementById('orgname');
+
+document.getElementById('submit').addEventListener('click', store_data);
+
+// inputText
+
+
+
 var request = new XMLHttpRequest()
 
 //open a connection
